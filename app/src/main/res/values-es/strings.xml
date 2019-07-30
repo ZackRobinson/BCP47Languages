@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BCP47Languages</string>
+    <string name="language_code">values-es</string>
+</resources>

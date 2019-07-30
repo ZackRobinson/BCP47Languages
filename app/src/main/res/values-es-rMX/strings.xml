@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BCP47Languages</string>
+    <string name="language_code">values-es-rMX</string> <!-- Without this, Android looks in b+en+US instead of b+es+419 -->
+    <string name="defaults_to">values-en+US</string>
+</resources>
